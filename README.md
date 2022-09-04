@@ -3,7 +3,7 @@
 
 a miniproject DBMS
 
-made from using php and sql programing
+made from using <b>strong and sql</strong> programing
 using tools xampp apache server local host
 
 consist of 
