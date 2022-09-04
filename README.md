@@ -5,6 +5,7 @@
 a miniproject DBMS
 
 made from using <strong> php and sql</strong> programing
+and BootStrap for style
 using tools xampp apache server local host
 
 consist of 
